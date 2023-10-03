@@ -18,7 +18,11 @@
     "@docsearch/js": "^3.5.1",
     "@vuepress/plugin-register-components": "2.0.0-beta.62",
     "@vuepress/plugin-toc": "2.0.0-beta.62",
-    "markdown-it-include": "^2.0.0",
+    "markdown-it": "^8.4.1",
+    "markdown-it-anchor": "^5.0.2",
+    "markdown-it-chain": "^1.3.0",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-emoji": "^1.4.0",
     "vue-docgen-cli": "^4.67.0",
     "vuepress": "2.0.0-beta.62"
   }
